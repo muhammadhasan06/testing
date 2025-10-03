@@ -47,7 +47,8 @@ body {
     font-size: 1rem;
     font-weight: 500;
 }
-
+.hamburger{display: none;}
+    display
 .navbar ul li a span {
     color: #6851ff;
 
